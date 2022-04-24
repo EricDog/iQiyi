@@ -1,7 +1,7 @@
 
 # 使用方式
-1. 爱奇艺官网获取你的cookie中`P00001`的值（如：a1O0Cm2dypdOv7hTm3H9khhuyM2r42bzidgJue02voVnm1lim3fsj8bFdrO2hm1F1...）
-2. 点击Settings -> Secrets -> IQIYI_COOKIE -> Update
+1. 爱奇艺官网登录账号，控制台输入`console.log(document.cookie)`获取cookies；
+2. 点击Settings -> Secrets -> IQIYI_COOKIE -> Update；
 5. 任意修改仓库内任意文件或点击右上角 Star 即可触发。如是Unstar状态需要点击两次即可。
 
 **本项目需要设置的 Secrets:**
